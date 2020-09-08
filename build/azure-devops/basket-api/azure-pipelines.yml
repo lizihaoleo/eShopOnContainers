@@ -1,5 +1,5 @@
 variables:
-    registryEndpoint: eshop-registry
+    registryEndpoint: eshopcontainer.azurecr.io
 trigger:
   branches:
     include:
